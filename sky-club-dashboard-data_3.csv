@@ -1,0 +1,26 @@
+# period: July 2026 MTD,,,,,
+code,city,region,nsat,food_safety,food_cost
+BOS MAIN,Boston Logan - Main Club,Delta Northeast,12,97.2,28.9
+BOS SAT,Boston Logan - Satellite,Delta Northeast,35.4,95.6,29.8
+JFK B32,New York JFK - B32,Delta Northeast,9.7,95.8,31.2
+JFK A GATES,New York JFK - A Gates,Delta Northeast,45.6,96.5,30.2
+LGA,New York LaGuardia,Delta Northeast,35.3,98.1,29.4
+DCA,Washington National,Delta Mid Atlantic,43.2,96.4,27.6
+EWR,Newark Liberty,Delta Northeast,36.5,94.2,30.7
+PHL,Philadelphia,Delta Mid Atlantic,-4.5,97.5,28.1
+RDU,Raleigh-Durham,Delta Mid Atlantic,36.7,98.6,26.9
+ATL C,Atlanta - Concourse C,Atlanta,-12.4,96.9,29.8
+ATL CPT,Atlanta - CPT,Atlanta,14.3,98.2,28.3
+ATL DCPT,Atlanta - DCPT,Atlanta,38.7,95.3,30.6
+ATL T,Atlanta - Concourse T,Atlanta,40.2,97,29.2
+ATL A17,Atlanta - A17,Atlanta,14.9,94.6,31
+ATL B18,Atlanta - B18,Atlanta,14.5,96.1,29.5
+DFW,Dallas-Fort Worth,Delta Mid Atlantic,22,97.8,28.4
+AUS,Austin,Delta Mid Atlantic,53,98.3,27.2
+MSY,New Orleans,Delta Mid Atlantic,46.2,93.6,31.8
+PBI,West Palm Beach,Delta South,1.9,97.1,29.1
+TPA,Tampa,Delta South,9.2,96.2,29.6
+MCO,Orlando,Delta South,24,95.4,30.4
+MIA,Miami,Delta South,34.9,96.7,28.8
+JAX,Jacksonville,Delta South,17.5,98.9,26.5
+FLL,Fort Lauderdale,Delta South,23.8,95.1,30.1
